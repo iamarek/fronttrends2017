@@ -1,5 +1,5 @@
 # Front Trends 2017
-TL;DR version of best talks from (Nienkedekker's summary of FT2017)(https://github.com/nienkedekker/Front-Trends-2017)
+TL;DR version of best talks from [Nienkedekker's summary of FT2017](https://github.com/nienkedekker/Front-Trends-2017)
 
 ----
 ## Una Kravets: The Power of CSS
